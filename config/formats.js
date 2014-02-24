@@ -934,7 +934,7 @@ exports.Formats = [
         	section: "Other Metagames",
  
         	searchShow: false,
-               forcedLevel: 100,
+                forcedLevel: 100,
         	ruleset: ['Pokemon', 'Team Preview', 'Sleep Clause Mod', 'Moody Clause', 'OHKO Clause', 'HP Percentage Mod', 'Evasion Moves Clause'],
         	banlist: ['Soul Dew', 'Illegal', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Uber', 'Farfetchd', 'Kangaskhan', 'Pinsir', 'Tauros', 'Lapras', 'Ditto', 'Aerodactyl', 'Unown', 'Girafarig', 'Dunsparce', 'Qwilfish', 'Shuckle', 'Heracross', 'Corsola', 'Delibird', 'Skarmory', 'Stantler', 'Smeargle', 'Miltank', 'Sableye', 'Mawile', 'Plusle', 'Minun', 'Volbeat', 'Illumise', 'Torkoal', 'Spinda', 'Zangoose', 'Seviper', 'Lunatone', 'Solrock', 'Castform', 'Kecleon', 'Tropius', 'Absol', 'Relicanth', 'Luvdisc', 'Pachirisu', 'Chatot', 'Spiritomb', 'Carnivine', 'Rotom', 'Rotom-Heat', 'Rotom-Wash', 'Rotom-Frost', 'Rotom-Fan', 'Rotom-Mow', 'Audino', 'Throh', 'Sawk', 'Basculin', 'Basculin-Blue-Striped', 'Maractus', 'Sigilyph', 'Emolga', 'Alomomola', 'Cryogonal', 'Stunfisk', 'Druddigon', 'Bouffalant', 'Heatmor', 'Durant', 'Furfrou', 'Hawlucha', 'Dedenne', 'Carbink', 'Klefki', 'Articuno', 'Zapdos', 'Moltres', 'Mew', 'Raikou', 'Entei', 'Suicune', 'Celebi', 'Regirock', 'Regice', 'Registeel', 'Latias', 'Latios', 'Regirock', 'Regice', 'Registeel', 'Latias', 'Latios', 'Deoxys', 'Deoxys-Attack', 'Jirachi', 'Uxie', 'Mesprit', 'Azelf', 'Heatran', 'Regigigas', 'Cresselia', 'Phione', 'Manaphy', 'Shaymin', 'Victini', 'Cobalion', 'Terrakion', 'Virizion', 'Tornadus', 'Thundurus', 'Landorus', 'Tornadus-Therian', 'Thundurus-Therian', 'Landorus-Therian', 'Kyurem', 'Kyurem-Black', 'Keldeo', 'Meloetta', 'Genesect', 'Zygarde']
     	},
